@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[ChazaNois]]></title>
         <description><![CDATA[ChazaNois]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/grupo-havdalah/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 16:52:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Aug 2016 16:52:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/grupo-havdalah/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/44e16a3b-5362-494a-af2b-3ab16c0f8b3e.jpg">]]></description>
+            <link>https://thegrid.ai/grupo-havdalah/b04af845-dd80-4b6a-9247-4b3b33db0e40/index.html</link>
+            <guid isPermaLink="false">b04af845-dd80-4b6a-9247-4b3b33db0e40</guid>
+            <pubDate>Wed, 17 Aug 2016 16:52:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mi Adir e Im Eshkacher - Casamento Michelle e Phillip]]></title>
             <description><![CDATA[<article><h1>Mi Adir e Im Eshkacher - Casamento Michelle e Phillip</h1><p>Mi Adir e Im Eshkacher</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c089ed337da3468169db8cd63fa362dd/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FwbS366kT2Sg%2Fmaxresdefault.jpg"></article>]]></description>
